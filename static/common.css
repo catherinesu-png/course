@@ -302,6 +302,10 @@ label.inline {
   gap: var(--space-md);
 }
 
+.work[hidden] {
+  display: none;
+}
+
 .section-title {
   padding: var(--space-md) var(--space-md) var(--space-xs);
   font-size: var(--font-size-xs);

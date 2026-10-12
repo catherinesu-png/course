@@ -243,7 +243,7 @@ function renderEditorMeta() {
 
 // Tabs
 
-const TABS = ["edit", "test", "agent"];
+const TABS = ["agent", "edit", "test"];
 
 function showTab(name) {
   for (const tab of TABS) {
